@@ -15,3 +15,6 @@
 以及服务器发送的响应报文内容
 
 ![](https://github.com/herui-ares/Http-reactor/blob/main/picture/http3.png)
+
+
+http解析的原理可参考https://blog.csdn.net/weixin_44477424/article/details/124161787?spm=1001.2014.3001.5502
